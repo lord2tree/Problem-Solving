@@ -1,0 +1,40 @@
+https://www.theodinproject.com/lessons/foundations-problem-solving
+
+Knowledge Check: Problem Solving
+
+
+WHAT ARE THE THREE STAGES IN THE PROBLEM SOLVING PROCESS?
+1) Understand (“if you can’t explain something in simple terms, you don’t understand it.”)
+
+2) Plan & pseudocode (“given input x, what are the steps necessary to return output y?”)
+
+3) Divide (break the big problem into sub-problems and solve each sub-problem one by one starting with the simplest and then connect all the sub-solution's)
+
+
+WHY IS IT IMPORTANT TO CLEARLY UNDERSTAND THE PROBLEM FIRST?
+If you don't understand the problem, you won't know when you have successfully solved it and may waste a lot of time on the wrong solution.
+
+
+WHAT CAN YOU DO TO HELP GET A CLEARER UNDERSTANDING OF THE PROBLEM?
+To gain clarity and understanding of the problem, write it down in plain English that makes sense to you - even use diagrams and pictures if necessary. Lastly try to explain it to someone else because if you can explain it well to someone else that most likely means you understand the idea/problem at hand.
+
+
+
+WHAT ARE SOME OF THE THINGS YOU SHOULD DO IN THE PLANNING STAGE OF THE PROBLEM SOLVING PROCESS?
+You need to plan out how your going to solve the problem and ask yourself some questions:
+- Does your program have a user interface? What will it look like?
+- What functionality will the interface have? You can sketch this out on paper
+- What inputs will your program have? Will the user enter data or will you get   	input from somewhere else
+- What's the desired output
+- Given the desired output, what are the steps necessary to return the desired output? (The last question is where you will write out an algorithm to solve the problem. You can think of an algorithm as a recipe for solving a particular problem. It defines the steps that need to be taken by the computer to solve a problem in pseudocode.)
+
+WHAT IS AN ALGORITHM?
+The algorithm in programming is your plan in plain text. It defines the steps that need to be taken by the computer to solve a problem in pseudocode. 
+
+WHAT IS PSEUDOCODE?
+Pseudocode is the writing of your codes logic in natural human language. 
+
+WHAT ARE THE ADVANTAGES OF BREAKING A PROBLEM DOWN AND SOLVING THE SMALLER PROBLEMS?
+Decomposing problems into smaller and easier to solve subproblems is a much better approach. It is the main way to deal with complexity, making a large complicated problem smaller and easier which in turn makes it more approachable to solve and understand.
+
+
